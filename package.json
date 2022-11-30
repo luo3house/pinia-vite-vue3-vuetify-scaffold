@@ -14,6 +14,7 @@
     "vite-plugin-vuetify": "^1.0.0"
   },
   "dependencies": {
+    "@mdi/font": "^7.0.96",
     "pinia": "^2.0.23",
     "vue": "^3.2.41",
     "vuetify": "^3.0.0"

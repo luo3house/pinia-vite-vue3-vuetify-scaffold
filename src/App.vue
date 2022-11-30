@@ -3,6 +3,7 @@
   <strong class="text-bold">{{ greeting }}</strong>
   <div style="padding: 20px">
     <v-select :items="techs" label="Tech" v-model="tech" />
+    <v-icon icon="mdi-brightness-7"></v-icon>
   </div>
 </template>
 
